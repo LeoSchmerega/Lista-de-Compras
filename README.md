@@ -1,4 +1,4 @@
-# 🛒 Lista de Mercado Inteligente
+# 🛒 Lista de Mercado 
 
 Uma aplicação web moderna para gerenciamento de compras de mercado, desenvolvida em **React** com foco em **UI/UX**, **Acessibilidade (A11y)** e **Responsividade**.
 
